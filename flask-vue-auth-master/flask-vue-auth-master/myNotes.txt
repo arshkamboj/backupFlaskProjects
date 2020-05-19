@@ -1,0 +1,12 @@
+This project has login and sql database
+upside- backend and frontend separate
+login page ui authentication
+working projrect
+frontend on 8080
+backend 5000
+
+downside-
+poor UI
+not much content to build upon
+no registration and logout service
+this project is a very good reference but can't build my project on this one.

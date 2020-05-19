@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-mysqldb = "*"
+jwt = "*"
+flask-cors = "*"
+flask-bycrypt = "*"
+flaskt-jwt-extended = "*"
+flask-bcrypt = "*"
+flask-jwt-extended = "*"
+
+[requires]
+python_version = "3.7"

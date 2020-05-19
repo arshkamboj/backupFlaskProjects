@@ -1,0 +1,7 @@
+This project do login, register and sqldatabase  
+downside-frontend and backend is combined
+no authentication of apis.
+can't build on this project but it is a good working project for reference
+frontend listening on 8080
+backend listening on 5000
+good UI
